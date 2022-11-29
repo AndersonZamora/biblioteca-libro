@@ -1,0 +1,14 @@
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\bin\Debug\net6.0\Capa_Entidad.deps.json
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\bin\Debug\net6.0\Capa_Entidad.runtimeconfig.json
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\bin\Debug\net6.0\Capa_Entidad.dll
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\bin\Debug\net6.0\Capa_Entidad.pdb
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\Capa_Entidad.csproj.AssemblyReference.cache
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\Capa_Entidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\Capa_Entidad.AssemblyInfoInputs.cache
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\Capa_Entidad.AssemblyInfo.cs
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\Capa_Entidad.csproj.CoreCompileInputs.cache
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\Capa_Entidad.dll
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\refint\Capa_Entidad.dll
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\Capa_Entidad.pdb
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\Capa_Entidad.genruntimeconfig.cache
+D:\Proyectos-visual\Biblioteca\Capa_Entidad\obj\Debug\net6.0\ref\Capa_Entidad.dll
